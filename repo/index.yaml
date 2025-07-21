@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  sftpgo:
+  - apiVersion: v2
+    appVersion: v2.6-slim
+    created: "2025-07-21T10:09:03.304272648-03:00"
+    description: A Helm chart for SFTPGo
+    digest: 4edf054e2cbd3fc46c124a849b8e5ccd90394fb1d4199888b772c9d742dec5e5
+    name: sftpgo
+    urls:
+    - https://cloudprotegida-org.github.io/docs/sftpgo-0.1.0.tgz
+    version: 0.1.0
+generated: "2025-07-21T10:09:03.302756467-03:00"
